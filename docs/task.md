@@ -2,8 +2,7 @@
 
 ## Phase 1: Setup (1 hari)
 - [x] Initialize React project dengan Vite
-- [ ] Konfigurasi Tailwind CSS
-- [ ] Buat repo Git (sudah ada)
+- [x] Konfigurasi Tailwind CSS
 - [ ] Test deploy ke Vercel (free tier)
 - [ ] Setup Neon PostgreSQL project
 - [ ] Setup Drizzle ORM + schema transaksi
